@@ -6,7 +6,11 @@
 
 | Bloque | Matrícula | Nombre | Usuario de GitHub | Opción elegida |
 | --- | --- | --- | --- | --- |
+<<<<<<< HEAD
 | 1 | [26162] | [Nathaly Valdes] | [ nathalyvaldes-droid] | AprobadoYReprobado |
+=======
+| 1 | [26146] | [Oliver Fernando López Pineda] | [oliverlopez-svg] | Captura |
+>>>>>>> c1bf4f4f490bc55721e96d476d07f7e86056758b
 | 2 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
 | 3 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
 | 4 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
@@ -15,6 +19,12 @@
 <!-- Si el equipo es de seis integrantes, agreguen una fila para el bloque 6. -->
 
 ## 2. Opciones del menú
+<<<<<<< HEAD
+=======
+
+Escriban las opciones del menú en el orden en que aparecen en el programa.
+
+>>>>>>> c1bf4f4f490bc55721e96d476d07f7e86056758b
 1. Capturar alumno
 2. Mostrar lista
 3. Estadisticas por materia
