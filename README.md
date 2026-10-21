@@ -39,7 +39,12 @@ g++ -Wall -Wextra -std=c++17 -Iinclude src/main.cpp -o boletas
 
 Escriban las reglas que su programa sigue y que el cálculo a mano necesita. Por ejemplo: qué pasa cuando hay un empate, cómo se busca un nombre, con cuántos decimales se imprime.
 
-[Inserta aquí tu respuesta]
+[aximo de 6 Alumnos 
+Cada alumno tiene un nombre y 3 calificaciones: Español, Matemáticas y Diseño de Programas.
+El nombre no puede quedar vacío.
+Las calificaciones deben estar entre 0 y 10.
+Los datos se guardan en arreglos paralelos.
+El ejemplo de la plantilla usa 7 como mínimo aprobatorio, pero eso es solo un ejemplo; confirma en PROYECTO.md cuál es el criterio real.]
 
 ## 5. Datos del escenario
 
