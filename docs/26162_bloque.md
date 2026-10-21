@@ -17,13 +17,13 @@ y llena tu copia.
 
 ¿Qué hace tu bloque y para qué le sirve a quien usa el programa?
 
-[Inserta aquí tu respuesta]
+este bloque procesa las calificaciones de los alumnos y su propositoe s mostrar un resumen general de cuantos alumnos aprobaron o reprobaron por cada materia y ademas hace una lista  de forma individual a cada alumno indicando si reprobo o aprobo todas sus materias que en este caso son 3 
 
 ## 3. Entradas y salidas
 
 ¿Qué recibe tu bloque (parámetros y datos del teclado) y qué produce (lo que imprime o devuelve)?
 
-[Inserta aquí tu respuesta]
+entrada recibe arreglso constantes como los nombres de los alumnos, sus calificaciones e indica el total de alumnos registrados y mis salidas son std:: cout con el conteo total de ya sea aprobados o reprobados
 
 ## 4. Decisiones de diseño
 
