@@ -17,7 +17,7 @@ y llena tu copia.
 
 ¿Qué hace tu bloque y para qué le sirve a quien usa el programa?
 
-este bloque procesa las calificaciones de los alumnos y su propositoe s mostrar un resumen general de cuantos alumnos aprobaron o reprobaron por cada materia y ademas hace una lista  de forma individual a cada alumno indicando si reprobo o aprobo todas sus materias que en este caso son 3 
+este bloque procesa las calificaciones de los alumnos y su propositoe es mostrar un resumen general de cuantos alumnos aprobaron o reprobaron por cada materia y ademas hace una lista  de forma individual a cada alumno indicando si reprobo o aprobo todas sus materias que en este caso son 3 
 
 ## 3. Entradas y salidas
 

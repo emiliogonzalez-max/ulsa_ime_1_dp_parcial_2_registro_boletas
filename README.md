@@ -40,8 +40,8 @@ g++ -Wall -Wextra -std=c++17 -Iinclude src/main.cpp -o boletas
 
 Escriban las reglas que su programa sigue y que el cálculo a mano necesita. Por ejemplo: qué pasa cuando hay un empate, cómo se busca un nombre, con cuántos decimales se imprime.
 
-[aximo de 6 Alumnos 
-Cada alumno tiene un nombre y 3 calificaciones: Español, Matemáticas y Diseño de Programas.
+[maximo de 6 Alumnos 
+Cada alumno tiene un nombre y 3 calificaciones: Espanol, Matemáticas y Diseno de Programas.
 El nombre no puede quedar vacío.
 Las calificaciones deben estar entre 0 y 10.
 Los datos se guardan en arreglos paralelos.
@@ -51,7 +51,7 @@ El ejemplo de la plantilla usa 7 como mínimo aprobatorio, pero eso es solo un e
 
 Los 6 alumnos que capturan en el escenario obligatorio.
 
-| # | Nombre | Español | Matemáticas | Diseño de Programas |
+| # | Nombre | Espanol | Matemáticas | Diseno de Programas |
 | --- | --- | --- | --- | --- |
 | 1 | [emilio gonzalez] | [7] | [6] | [9] |
 | 2 | [nathaly valdes] | [9] | [10] | [9] |
@@ -78,7 +78,7 @@ Predigan la salida del escenario antes de ejecutarlo. Una fila por bloque indivi
 
 **¿La salida del programa coincidió con el cálculo a mano? Si no, ¿qué corrigieron?**
 
-[Inserta aquí tu respuesta]
+si
 
 ## 7. Receta del menú
 
@@ -107,8 +107,8 @@ Enlace a la documentación y a la propuesta de mejora de cada integrante.
 
 | Bloque | Documentación | Propuesta de mejora |
 | --- | --- | --- |
-| 1 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 2 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
+| 1 | [Oliver Fernando Lopez Pineda] | [26146] |
+| 2 | [Nathaly Valdes] | [26162] |mi propuesta se basa en un programa que le avisara a los maestros el promedio de sus alumnos pero no solo el promedio si no su desempeño, la idea es que el programa sume los promedios de todas sus materias y le mande un aviso a su profesor diciendo si su desempeño es bueno o esta en riesgo de recursar, esta yo lo veo como un abuena mejora ya que puede tanto como ayudar a los alumnos como a los profesores cuando califiquen|
 | 3 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
 | 4 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
 | 5 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
