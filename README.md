@@ -6,7 +6,11 @@
 
 | Bloque | Matrícula | Nombre | Usuario de GitHub | Opción elegida |
 | --- | --- | --- | --- | --- |
+<<<<<<< HEAD
+| 1 | [26146] | [Oliver Fernando López Pineda] | [oliverlopez-svg] | Captura |
+=======
 | 1 | [26146] | [Oliver Fernando López Pineda] | [] | Captura |
+>>>>>>> 301b5afc1e9c444aee1add920dc03d67de54d6ca
 | 2 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
 | 3 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
 | 4 | [26164] | [Maximiliano Muñoz Solís] | [MaximilianoM08] | [Boleta Individual] |
