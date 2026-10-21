@@ -7,10 +7,11 @@
 | Bloque | Matrícula | Nombre | Usuario de GitHub | Opción elegida |
 | --- | --- | --- | --- | --- |
 | 1 | [26146] | [Oliver Fernando López Pineda] | [oliverlopez-svg] | estadisticas materia |
-| 2 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
+| 2 | [26162] | [Nathaly Valdes] | [nathalyvaldes-droid] | [AprobadoYReprobados] |
 | 3 | [Captura_alumnos] | [26166] | [Roberto E. Velazquez Ibarra] | [robertovelazquez-ui] |
 | 4 | [26164] | [Maximiliano Muñoz Solís] | [MaximilianoM08] | [Boleta Individual] |
-| 5 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
+| 5 | [26321] | [Ian Silva] | [silvaian29] | [Lista de alumnos] |
+| 6 | [26209] | [Emilio Gonzalez Viesca] | [emiliogonzalez-max] | [Salida] |
 
 <!-- Si el equipo es de seis integrantes, agreguen una fila para el bloque 6. -->
 
@@ -39,7 +40,12 @@ g++ -Wall -Wextra -std=c++17 -Iinclude src/main.cpp -o boletas
 
 Escriban las reglas que su programa sigue y que el cálculo a mano necesita. Por ejemplo: qué pasa cuando hay un empate, cómo se busca un nombre, con cuántos decimales se imprime.
 
-[Inserta aquí tu respuesta]
+[aximo de 6 Alumnos 
+Cada alumno tiene un nombre y 3 calificaciones: Español, Matemáticas y Diseño de Programas.
+El nombre no puede quedar vacío.
+Las calificaciones deben estar entre 0 y 10.
+Los datos se guardan en arreglos paralelos.
+El ejemplo de la plantilla usa 7 como mínimo aprobatorio, pero eso es solo un ejemplo; confirma en PROYECTO.md cuál es el criterio real.]
 
 ## 5. Datos del escenario
 
@@ -47,12 +53,12 @@ Los 6 alumnos que capturan en el escenario obligatorio.
 
 | # | Nombre | Español | Matemáticas | Diseño de Programas |
 | --- | --- | --- | --- | --- |
-| 1 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 2 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 3 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 4 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 5 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 6 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
+| 1 | [emilio gonzalez] | [7] | [6] | [9] |
+| 2 | [nathaly valdes] | [9] | [10] | [9] |
+| 3 | [oliver lopez] | [10] | [7] | [8] |
+| 4 | [maximiliano muñoz] | [9] | [8] | [7] |
+| 5 | [ian silva] | [8] | [9] | [9] |
+| 6 | [roberto velzquez] | [10] | [8] | [7] |
 
 ## 6. Cálculo a mano
 
@@ -77,7 +83,20 @@ Predigan la salida del escenario antes de ejecutarlo. Una fila por bloque indivi
 Receta en pseudocódigo del programa principal: el menú y cómo se conecta con cada bloque.
 
 ```
-[Inserta aquí tu respuesta]
+[1. Crear los arreglos de nombres y calificaciones y poner total en 0
+2. Repetir:
+   2.1 Mostrar el menú
+   2.2 Leer la opción
+   2.3 Según la opción:
+       1: capturar alumno (bloque de Captura) y actualizar total
+       2: mostrar lista de alumnos
+       3: mostrar estadísticas por materia
+       4: mostrar aprobados y reprobados
+       5: mostrar boleta individual
+       6: mostrar materias reprobadas por alumno
+       7: despedirse y salir
+       cualquier otra: avisar que la opción no es válida
+3. Hasta que la opción sea 7]
 ```
 
 ## 8. Documentación individual
@@ -98,4 +117,4 @@ Enlace a la documentación y a la propuesta de mejora de cada integrante.
 
 Si cambiaron algo de la interfaz de `include/registro.h` (una constante, un parámetro, una función), expliquen qué cambiaron y por qué. Si no cambiaron nada, escriban "Sin cambios".
 
-[Inserta aquí tu respuesta]
+[Sin cambios]
