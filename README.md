@@ -6,7 +6,7 @@
 
 | Bloque | Matrícula | Nombre | Usuario de GitHub | Opción elegida |
 | --- | --- | --- | --- | --- |
-| 1 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | Captura |
+| 1 | [26146] | [Oliver Fernando López Pineda] | [oliverlopez-svg] | Captura |
 | 2 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
 | 3 | [Captura_alumnos] | [26166] | [Roberto E. Velazquez Ibarra] | [robertovelazquez-ui] |
 | 4 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
@@ -18,7 +18,13 @@
 
 Escriban las opciones del menú en el orden en que aparecen en el programa.
 
-[Inserta aquí tu respuesta]
+1. Capturar alumno
+2. Mostrar lista
+3. Estadisticas por materia
+4. Aprobados y reprobados
+5. Boleta individual
+6. Materias reprobadas por alumno
+7. Salir
 
 ## 3. Cómo compilar y ejecutar
 
