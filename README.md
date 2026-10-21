@@ -66,11 +66,13 @@ Predigan la salida del escenario antes de ejecutarlo. Una fila por bloque indivi
 
 | Bloque | Valores elegidos | Resultado esperado |
 | --- | --- | --- |
-| 1 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 2 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 3 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 4 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 5 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
+| 1 | [Registrar los 6 alumnos] | [Los 6 alumnos son registrados correctamente] |
+| 2 | [Opcion 2] | [Se muestran los nombres y calificaciones de los 6 alumnos] |
+| 3 | [Opcion 3] | [Promedios. Espanol: 8.8333. Matematicas: 8. Diseno de Programas: 
+8.1667. Mas alta: Espanol. Mas baja: Matematicas.] |
+| 4 | [Opcion 4] | [Español: 6 aprobados y 0 reprobados. Matemáticas: 5 aprobados y 1 reprobado. Diseño de Programas: 6 aprobados y 0 reprobados. emilio gonzalez aparece como reprobado en general.] |
+| 5 | [Opcion 5, se busca a emilio gonzalez] | [Alumno: emilio gonzalez. Espanol: 7, Matematicas: 6. Diseno de Programas: 9. Promedio: 7.33. Materias Reprobadas: 1. Estado: Reprobado.] |
+| 6 | [Opcion 6] | [emilio gonzalez 1. Alumnos con materias reprobadas: 1] |
 
 <!-- Si el equipo es de seis integrantes, agreguen una fila para el bloque 6. -->
 
