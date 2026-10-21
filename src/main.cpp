@@ -80,12 +80,12 @@ void mostrarAprobadosYReprobados(const std::string nombres[],
         return;
     }
 
-    double aprobadosEspanol = 7;
-    double reprobadosEspanol = 6.9;
-    double aprobadosMatematicas = 7;
-    double reprobadosMatematicas = 6.9;
-    double aprobadosDiseno = 7;
-    double reprobadosDiseno = 6.9;
+    double aprobadosEspanol = 0;
+    double reprobadosEspanol = 0;
+    double aprobadosMatematicas = 0;
+    double reprobadosMatematicas = 0;
+    double aprobadosDiseno = 0;
+    double reprobadosDiseno = 0;
 
     for (int i = 0; i < total; ++i) {
         if (espanol[i] >= CALIFICACION_APROBATORIA) aprobadosEspanol++; else reprobadosEspanol++;
@@ -100,9 +100,9 @@ void mostrarAprobadosYReprobados(const std::string nombres[],
 
     for(int i = 0; i<total; i++) {
         if (espanol[i] > 6 && matematicas[i]>6 && disenoProgramas[i]>6) {
-            std::cout << nombres[i] << " Espanol: " << espanol[i] << " Matematicas: " << matematicas[i] << " DP" << disenoProgramas[i] << " APROVADO\n";
+            std::cout << nombres[i] << "   Espanol: " << espanol[i] << "  Matematicas: " << matematicas[i] << "    DP: " << disenoProgramas[i] << " APROBADO\n";
         } else {
-            std::cout << nombres[i]  << " Espanol: " << espanol[i] << " Matematicas: " << matematicas[i] << " DP" << disenoProgramas[i] << " REPROBADO\n";
+            std::cout << nombres[i]  << "   Espanol: " << espanol[i] << "   Matematicas: " << matematicas[i] << "   DP: " << disenoProgramas[i] << " REPROBADO\n";
 
         }
     }

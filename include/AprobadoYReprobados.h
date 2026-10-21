@@ -1,4 +1,3 @@
-#pragma once
 #include <iostream>
 void mostrarAprobadosYReprobados(const std::string nombres[],
      const double espanol[],
