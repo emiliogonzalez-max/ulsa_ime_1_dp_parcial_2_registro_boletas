@@ -6,7 +6,7 @@
 
 | Bloque | Matrícula | Nombre | Usuario de GitHub | Opción elegida |
 | --- | --- | --- | --- | --- |
-| 1 | [26146] | [Oliver Fernando López Pineda] | [oliverlopez-svg] | Captura |
+| 1 | [26146] | [Oliver Fernando López Pineda] | [oliverlopez-svg] | estadisticas materia |
 | 2 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
 | 3 | [Captura_alumnos] | [26166] | [Roberto E. Velazquez Ibarra] | [robertovelazquez-ui] |
 | 4 | [26164] | [Maximiliano Muñoz Solís] | [MaximilianoM08] | [Boleta Individual] |
