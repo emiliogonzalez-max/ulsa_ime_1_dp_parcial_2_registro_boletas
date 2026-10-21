@@ -7,10 +7,11 @@
 | Bloque | Matrícula | Nombre | Usuario de GitHub | Opción elegida |
 | --- | --- | --- | --- | --- |
 | 1 | [26146] | [Oliver Fernando López Pineda] | [oliverlopez-svg] | estadisticas materia |
-| 2 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
+| 2 | [26162] | [Nathaly Valdes] | [nathalyvaldes-droid] | [AprobadoYReprobados] |
 | 3 | [Captura_alumnos] | [26166] | [Roberto E. Velazquez Ibarra] | [robertovelazquez-ui] |
 | 4 | [26164] | [Maximiliano Muñoz Solís] | [MaximilianoM08] | [Boleta Individual] |
-| 5 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
+| 5 | [26321] | [Ian Silva] | [silvaian29] | [Lista de alumnos] |
+| 6 | [26209] | [Emilio Gonzalez Viesca] | [emiliogonzalez-max] | [Salida] |
 
 <!-- Si el equipo es de seis integrantes, agreguen una fila para el bloque 6. -->
 
@@ -47,12 +48,12 @@ Los 6 alumnos que capturan en el escenario obligatorio.
 
 | # | Nombre | Español | Matemáticas | Diseño de Programas |
 | --- | --- | --- | --- | --- |
-| 1 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 2 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 3 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 4 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 5 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 6 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
+| 1 | [emilio gonzalez] | [7] | [6] | [9] |
+| 2 | [nathaly valdes] | [9] | [10] | [9] |
+| 3 | [oliver lopez] | [10] | [7] | [8] |
+| 4 | [maximiliano muñoz] | [9] | [8] | [7] |
+| 5 | [ian silva] | [8] | [9] | [9] |
+| 6 | [roberto velzquez] | [10] | [8] | [7] |
 
 ## 6. Cálculo a mano
 
