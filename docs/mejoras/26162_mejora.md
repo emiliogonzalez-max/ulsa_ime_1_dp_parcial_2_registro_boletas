@@ -10,16 +10,15 @@ Puede tocar cualquier parte de la solución del equipo y se resuelve con los tem
 Dentro de un equipo no puede haber dos propuestas iguales.
 -->
 
-Propuesta de mejora elaborada por: [Inserta aquí tu respuesta]
+Propuesta de mejora elaborada por: Nathaly Valdes
 
-**Matrícula:** [Inserta aquí tu respuesta]
-**Título de la propuesta:** [Inserta aquí tu respuesta]
+**Matrícula:** 26162
+**Título de la propuesta:** Sistema de desempeño de los alumnos
 
 ## 1. Impacto
 
 ¿Es una mejora o una corrección? ¿Qué problema resuelve o qué agrega, y a quién beneficia?
-
-[Inserta aquí tu respuesta]
+mi propuesta se basa en un programa que le avisara a los maestros el promedio de sus alumnos pero no solo el promedio si no su desempeño, la idea es que el programa sume los promedios de todas sus materias y le mande un aviso a su profesor diciendo si su desempeño es bueno o esta en riesgo de recursar, esta yo lo veo como un abuena mejora ya que puede tanto como ayudar a los alumnos como a los profesores cuando califiquen
 
 ## 2. Qué implica en el diseño
 
