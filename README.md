@@ -82,7 +82,20 @@ Predigan la salida del escenario antes de ejecutarlo. Una fila por bloque indivi
 Receta en pseudocódigo del programa principal: el menú y cómo se conecta con cada bloque.
 
 ```
-[Inserta aquí tu respuesta]
+[1. Crear los arreglos de nombres y calificaciones y poner total en 0
+2. Repetir:
+   2.1 Mostrar el menú
+   2.2 Leer la opción
+   2.3 Según la opción:
+       1: capturar alumno (bloque de Captura) y actualizar total
+       2: mostrar lista de alumnos
+       3: mostrar estadísticas por materia
+       4: mostrar aprobados y reprobados
+       5: mostrar boleta individual
+       6: mostrar materias reprobadas por alumno
+       7: despedirse y salir
+       cualquier otra: avisar que la opción no es válida
+3. Hasta que la opción sea 7]
 ```
 
 ## 8. Documentación individual
@@ -103,4 +116,4 @@ Enlace a la documentación y a la propuesta de mejora de cada integrante.
 
 Si cambiaron algo de la interfaz de `include/registro.h` (una constante, un parámetro, una función), expliquen qué cambiaron y por qué. Si no cambiaron nada, escriban "Sin cambios".
 
-[Inserta aquí tu respuesta]
+[Sin cambios]
