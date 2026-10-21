@@ -110,7 +110,7 @@ Enlace a la documentación y a la propuesta de mejora de cada integrante.
 | 1 | [Oliver Fernando Lopez Pineda] | [26146] |
 | 2 | [Nathaly Valdes] | [26162] |mi propuesta se basa en un programa que le avisara a los maestros el promedio de sus alumnos pero no solo el promedio si no su desempeño, la idea es que el programa sume los promedios de todas sus materias y le mande un aviso a su profesor diciendo si su desempeño es bueno o esta en riesgo de recursar, esta yo lo veo como un abuena mejora ya que puede tanto como ayudar a los alumnos como a los profesores cuando califiquen|
 | 3 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
-| 4 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
+| 4 | [Maximiliano Muñoz Solís] | [26164] | [docs/26164_bloque.md] | [docs/mejoras/26164_mejora.md] |
 | 5 | [Inserta aquí tu respuesta] | [Inserta aquí tu respuesta] |
 
 <!-- Si el equipo es de seis integrantes, agreguen una fila para el bloque 6. -->
